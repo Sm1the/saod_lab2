@@ -1,0 +1,3 @@
+D:/User Files/Desktop/Build and project/SAOD/saod_lab2/cmake-build-debug/CMakeFiles/saod_lab2.dir
+D:/User Files/Desktop/Build and project/SAOD/saod_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/User Files/Desktop/Build and project/SAOD/saod_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
